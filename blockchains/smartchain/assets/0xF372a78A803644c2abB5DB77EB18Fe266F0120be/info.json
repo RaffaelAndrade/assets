@@ -1,0 +1,11 @@
+{
+  "name": "DRAGONBIRD",
+  "symbol": "DRBIRD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xF372a78A803644c2abB5DB77EB18Fe266F0120be",
+  "website": "https://www.drbird.org",
+  "description": "DRAGONBIRD is a decentralized BEP20 token on BNB Smart Chain focused on community and innovation.",
+  "tags": ["defi", "community", "bnb", "dragon", "bird"]
+}
